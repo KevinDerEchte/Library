@@ -4,13 +4,13 @@
 
 
 ### Stumble Guys Unlocker:
-<ins>Main</ins><br><br>
+<ins>Main</ins><br>
 Unlock Skins
 Unlock Emotes<br>
 Unlock Animations<br>
 Unlock Footsteps<br>
 
-<ins>Settings</ins><br><br>
+<ins>Settings</ins><br>
 Close Game<br>
 Unhook<br>
 Allocate Console
