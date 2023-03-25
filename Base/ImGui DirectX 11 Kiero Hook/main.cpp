@@ -134,7 +134,7 @@ HRESULT __stdcall hkPresent(IDXGISwapChain* pSwapChain, UINT SyncInterval, UINT 
 			}
 
 			ImGui::SameLine();
-			if (ImGui::Button(("Misc"), ImVec2(200, 30)))
+			if (ImGui::Button(("Setings"), ImVec2(200, 30)))
 			{
 				globals::tab = 1;
 			}
