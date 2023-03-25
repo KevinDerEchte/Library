@@ -1,2 +1,2 @@
--- Base
+-- Base\n
 -- Stumble Guys Unlocker
