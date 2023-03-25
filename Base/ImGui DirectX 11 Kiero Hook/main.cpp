@@ -134,35 +134,34 @@ HRESULT __stdcall hkPresent(IDXGISwapChain* pSwapChain, UINT SyncInterval, UINT 
 			}
 
 			ImGui::SameLine();
-			if (ImGui::Button(("Setings"), ImVec2(200, 30)))
+			if (ImGui::Button(("Misc"), ImVec2(200, 30)))
 			{
 				globals::tab = 1;
 			}
 
 
 			//options in main tab
-
-			//options in settings tab
 			if (globals::tab == 0)
+			{
+				
+			}
+
+			//options in misc tab
+			if (globals::tab == 1)
 			{
 				if (ImGui::Button("Remove Cheat"))
 				{
 					kiero::shutdown();
 				}
-
 				if (ImGui::IsItemHovered(ImGuiHoveredFlags_AllowWhenDisabled))
 				{
 					ImGui::SetTooltip("Removes the cheat from the game entirely.");
 				}
-			}
-
-			if (globals::tab == 1)
-			{
+				
 				if (ImGui::Button("Close Game"))
 				{
 					exit(0);
 				}
-
 				if (ImGui::IsItemHovered(ImGuiHoveredFlags_AllowWhenDisabled))
 				{
 					ImGui::SetTooltip("This will close the game entirely.");
