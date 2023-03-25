@@ -14,3 +14,5 @@ Unlock Footsteps<br>
 Close Game<br>
 Unhook<br>
 Allocate Console
+
+This site was built using [GitHub Pages](https://pages.github.com/).
