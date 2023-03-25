@@ -6,6 +6,6 @@
 **Stumble Guys Unlocker:**
 >Main
 >> Unlock Skins
->> Unlock Emotes
->> Unlock Animations
->> Unlock Footsteps
+>> Unlock Emotes<br>
+>> Unlock Animations<br>
+>> Unlock Footsteps<br>
