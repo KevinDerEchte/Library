@@ -143,7 +143,7 @@ HRESULT __stdcall hkPresent(IDXGISwapChain* pSwapChain, UINT SyncInterval, UINT 
 			//options in main tab
 
 			//options in settings tab
-			if (globals::tab == 1)
+			if (globals::tab == 0)
 			{
 				if (ImGui::Button("Remove Cheat"))
 				{
