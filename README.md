@@ -9,3 +9,7 @@
 >> Unlock Emotes<br>
 >> Unlock Animations<br>
 >> Unlock Footsteps<br>
+
+>Settings
+>> Close Game<br>
+>> Unhook<br>
