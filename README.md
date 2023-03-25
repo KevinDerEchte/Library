@@ -3,16 +3,6 @@
 ### **List of uploads:**
 
 
-### Stumble Guys Unlocker:
-<ins>Main</ins><br>
-Unlock Skins
-Unlock Emotes<br>
-Unlock Animations<br>
-Unlock Footsteps<br>
+### Stumble Guys Unlocker - [Features](https://github.com/KevinDerEchte/Library/blob/main/sUnlocker/README.md)
 
-<ins>Settings</ins><br>
-Close Game<br>
-Unhook<br>
-Allocate Console
 
-This site was built using [GitHub Pages](https://pages.github.com/).
