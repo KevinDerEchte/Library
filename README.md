@@ -1,16 +1,16 @@
 # Library
 
-### List of uploads:
+## List of uploads:
 
 
-**Stumble Guys Unlocker:**
->Main
-> Unlock Skins
->> Unlock Emotes<br>
->> Unlock Animations<br>
->> Unlock Footsteps<br>
+### Stumble Guys Unlocker:
+<ins>Main</ins><br><br>
+Unlock Skins
+Unlock Emotes<br>
+Unlock Animations<br>
+Unlock Footsteps<br>
 
->Settings<br>
->> Close Game<br>
->> Unhook<br>
->> Allocate Console
+<ins>Settings</ins><br><br>
+Close Game<br>
+Unhook<br>
+Allocate Console
